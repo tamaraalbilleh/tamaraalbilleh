@@ -23,7 +23,7 @@ my social media handles
 <br>
 Me to me going to sleep after all night coding :🌝🤔
 <br>
-![meme](./meme.jpg)
+![meme](https://github.com/tamaraalbilleh/tamaraalbilleh/blob/main/meme.jpg?raw=true)
 
 
 ![kk](./F07.png) 
