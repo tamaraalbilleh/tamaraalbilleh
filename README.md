@@ -2,6 +2,7 @@
 <!-- ![pic](./header07.png)-->
 ##  Hi There , I'm Tamara Amin
 web developer in the in the making  
+![Visitor Count](https : //profile-counter.glitch.me/tamaraalbilleh/count.svg)
 ### Welcome to my Page 🥳
 I am a junior Frontend and Backend web developer 👩🏻‍💻, feel free to ask me anything 💁🏻‍♀️🤔
 [![tamaraalbilleh's github stats](https://github-readme-stats.vercel.app/api?username=tamaraalbilleh&show_icons=true&theme=default)](https://github.com/tamaraalbilleh/)
