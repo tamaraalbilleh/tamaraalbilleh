@@ -1,6 +1,6 @@
 
 <!-- ![pic](./header07.png)-->
-##  Hi There , I'm Tamara Amin Al-Billeh
+##  Hi There , I'm Tamara Amin
 web developer in the in the making  
 ### Welcome to my Page 🥳
 I am a junior Frontend and Backend web developer 👩🏻‍💻, feel free to ask me anything 💁🏻‍♀️🤔
