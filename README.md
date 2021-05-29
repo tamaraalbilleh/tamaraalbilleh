@@ -1,5 +1,5 @@
 
-![pic](./header07.png)
+<!-- ![pic](./header07.png)-->
 ##  Hi There , I'm Tamara Amin Al-Billeh
 web developer in the in the making  
 ### Welcome to my Page 🥳
@@ -14,7 +14,7 @@ I am a junior Frontend and Backend web developer 👩🏻‍💻, feel free to a
 <br>
 I also used to be a Registered Nurse , So you can ask me about that too 👩🏻‍⚕️ .
 
-![](https://anime-chan.me/uploads/posts/2014-10/1413366400_smile-3.gif)
+<!-- ![](https://anime-chan.me/uploads/posts/2014-10/1413366400_smile-3.gif) -->
 
 Pleased to meet you . . . <br>
 my social media handles
@@ -24,7 +24,7 @@ my social media handles
 Me to me going to sleep after all night coding :🌝🤔,
 <br>
 
-![meme](https://github.com/tamaraalbilleh/tamaraalbilleh/blob/main/meme.jpg?raw=true)
+<!-- ![meme](https://github.com/tamaraalbilleh/tamaraalbilleh/blob/main/meme.jpg?raw=true) -->
 
 
 ![kk](./F07.png) 
