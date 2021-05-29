@@ -27,4 +27,4 @@ Me to me going to sleep after all night coding :🌝🤔,
 <!-- ![meme](https://github.com/tamaraalbilleh/tamaraalbilleh/blob/main/meme.jpg?raw=true) -->
 
 
-![kk](./F07.png) 
+<!--![kk](./F07.png) -->
