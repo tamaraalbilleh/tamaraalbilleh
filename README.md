@@ -1,4 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/{tamaraalbilleh}/count.svg)
 <!-- ![pic](./header07.png)-->
 ##  Hi There , I'm Tamara Amin
 web developer in the in the making  
@@ -29,3 +28,4 @@ my social media handles
 
 
 <!--![kk](./F07.png) -->
+![Visitor Count](https://profile-counter.glitch.me/{tamaraalbilleh}/count.svg)
