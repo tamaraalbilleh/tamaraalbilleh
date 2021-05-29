@@ -1,5 +1,6 @@
 <!-- ![pic](./header07.png)-->
 ##  Hi There , I'm Tamara Amin
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
 web developer in the in the making  
 
 ### Welcome to my Page 🥳                                                
@@ -29,5 +30,5 @@ my social media handles
 
 <!--![kk](./F07.png) -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+
 
