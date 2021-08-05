@@ -7,7 +7,7 @@ web developer in the in the making
 I am a junior Frontend and Backend web developer 👩🏻‍💻, feel free to ask me anything 💁🏻‍♀️🤔
 [![tamaraalbilleh's github stats](https://github-readme-stats.vercel.app/api?username=tamaraalbilleh&show_icons=true&theme=default)](https://github.com/tamaraalbilleh/)
 
-![hi](https://pa1.narvii.com/5653/884091bb411fd55ac65fae69a59d1b520fed01c7_hq.gif)
+<!-- ![hi](https://pa1.narvii.com/5653/884091bb411fd55ac65fae69a59d1b520fed01c7_hq.gif) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaraalbilleh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
