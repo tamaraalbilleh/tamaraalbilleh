@@ -11,9 +11,9 @@ I am a junior Frontend and Backend web developer 👩🏻‍💻, feel free to a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaraalbilleh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![hehe](https://i.imgur.com/mWpUJKO.gif)
+<!-- ![hehe](https://i.imgur.com/mWpUJKO.gif) -->
 <br>
-I also used to be a Registered Nurse , So you can ask me about that too 👩🏻‍⚕️ .
+<!-- I also used to be a Registered Nurse , So you can ask me about that too 👩🏻‍⚕️ . -->
 
 <!-- ![](https://anime-chan.me/uploads/posts/2014-10/1413366400_smile-3.gif) -->
 
